@@ -22,5 +22,5 @@
 | 2 June | Mandiant campaign analysis, IOCs, YARA rules | [mandiant.com](https://www.mandiant.com/resources/blog/zero-day-moveit-data-theft) |
 | 2 June | CVE-2023-34362 in MOVEit Transfer added to the CISA Known Exploited Vulnerability (KEV) Database | [cisa.gov](https://www.cisa.gov/news-events/alerts/2023/06/02/cisa-adds-one-known-exploited-vulnerability-catalog) |
 | 2 June | Microsoft formally attributed the MOVEit Transfer campaign to the threat group called CL0P (aka Lace Tempest, FIN11, TA505) | [twitter.com/MsftSecIntel](https://twitter.com/MsftSecIntel/status/1665537730946670595) |
-| | | |
-| | | |
+| 5 June | Zellis' MOVEit Transfer breached, impacting British Airways, BBC, Boots, and Aer Lingus, potentially others | [therecord.media](https://therecord.media/bbc-british-airways-hit-by-zellis-zero-day) |
+| 6 June | University of Rochester and the Government of Nova Scotia are the first known MoveIT victims in North America | [therecord.media](https://therecord.media/rochester-university-nova-scotia-move-it-victims) |
