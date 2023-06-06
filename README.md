@@ -1,8 +1,8 @@
 ![image](https://github.com/curated-intel/MOVEit-Transfer/assets/59974887/6dafdc96-efde-4b99-b144-113e71170fda)
 
 
-# MOVEit Transfer CL0P Campaign Tracking
-- A repository for tracking events related to the MOVEit Transfer Cl0p Campaign
+# MOVEit Transfer Hacking Campaign Tracking
+- A repository for tracking events related to the MOVEit Transfer Hacking Campaign
 - Events mapped to the Diamond Model, plus resources and information
 
 ### Event Summary Diagram
