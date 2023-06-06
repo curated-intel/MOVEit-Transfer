@@ -1,4 +1,4 @@
-![image](https://github.com/curated-intel/MOVEit-Transfer/assets/59974887/7f4b72f9-ac2d-4683-8e34-32d0e9dd6f0b)
+![image](https://github.com/curated-intel/MOVEit-Transfer/assets/59974887/6dafdc96-efde-4b99-b144-113e71170fda)
 
 
 # MOVEit Transfer CL0P Campaign Tracking
@@ -6,7 +6,7 @@
 - Events mapped to the Diamond Model, plus resources and information
 
 ### Event Summary Diagram
-![image](https://github.com/curated-intel/MOVEit-Transfer/assets/59974887/0b3937e5-cdca-4d1e-8476-5657329fd274)
+![image](https://github.com/curated-intel/MOVEit-Transfer/assets/59974887/d8938624-069f-4356-87e9-583cc4c892de)
 
 | Publish Date | Type | Description | Source |
 | --- | --- | --- | --- |
