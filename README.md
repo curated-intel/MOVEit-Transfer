@@ -18,6 +18,7 @@
 | 1 June | Capabilities | Huntress analysis of the MOVEit Transfer vulnerability, IOCs | [huntress.com](https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response) |
 | 1 June | Capabilities | TrustedSec MOVEit Transfer campaign analysis, IOCs | [trustedsec.com](https://www.trustedsec.com/blog/critical-vulnerability-in-progress-moveit-transfer-technical-analysis-and-recommendations/) |
 | 2 June | Resource | YARA rules for the Web Shell | [github.com/AhmetPayaslioglu](https://github.com/AhmetPayaslioglu/YaraRules/blob/main/MOVEit_Transfer_Critical_Vulnerability.yara) |
+| 2 June | Resource | Sigma rule for MOVEit exploitation | [github.com/tsale](https://github.com/tsale/Sigma_rules/blob/main/Threat%20Hunting%20Queries/MOVEit_exploitation.yml) |
 | 2 June | Resource | MOVEit Web Shell Checker | [github.com/ZephrFish](https://github.com/ZephrFish/MoveIT-WebShellCheck) |
 | 2 June | Information | CVE-2023-34362 in MOVEit Transfer added to the NIST National Vulnerability Database | [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2023-34362) |
 | 2 June | Capabilities | Mandiant campaign analysis, IOCs, YARA rules | [mandiant.com](https://www.mandiant.com/resources/blog/zero-day-moveit-data-theft) |
