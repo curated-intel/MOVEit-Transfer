@@ -32,3 +32,5 @@
 | 6 June | Victim | University of Rochester and the Government of Nova Scotia are the first known MoveIT victims in North America | [therecord.media](https://therecord.media/rochester-university-nova-scotia-move-it-victims) |
 | 7 June | Adversary | Clop ransomware tells those affected to email them before 14 June or stolen data will be published | [BBC](https://www.bbc.com/news/technology-65829726) |
 | 7 June | Adversary/Capabilities | FBI & CISA joint advisory on CL0P, details about other TA505 campaigns, and other incidents such as the GoAnywhere attacks, IOCs, YARAs  | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a) |
+| 7 June | Victim/Capabilities | SentinelOne's campaign analysis, hunting queries, IOCs | [sentinelone.com](https://www.sentinelone.com/blog/moveit-transfer-exploited-to-drop-file-stealing-sql-shell/) |
+| 8 June | Capabilities | Kroll's Timeline of the campaign (dating it back to 2021), IOCs | [kroll.com](https://www.kroll.com/en/insights/publications/cyber/clop-ransomware-moveit-transfer-vulnerability-cve-2023-34362) |
