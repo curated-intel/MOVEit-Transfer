@@ -34,3 +34,4 @@
 | 7 June | Adversary/Capabilities | FBI & CISA joint advisory on CL0P, details about other TA505 campaigns, and other incidents such as the GoAnywhere attacks, IOCs, YARAs  | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a) |
 | 7 June | Victim/Capabilities | SentinelOne's campaign analysis, hunting queries, IOCs | [sentinelone.com](https://www.sentinelone.com/blog/moveit-transfer-exploited-to-drop-file-stealing-sql-shell/) |
 | 8 June | Capabilities | Kroll's Timeline of the campaign (dating it back to 2021), IOCs | [kroll.com](https://www.kroll.com/en/insights/publications/cyber/clop-ransomware-moveit-transfer-vulnerability-cve-2023-34362) |
+| 9 June | Resource | Progress Software issues a new patch covering new vulnerabilities | [progress.com](https://www.progress.com/security/moveit-transfer-and-moveit-cloud-vulnerability)
