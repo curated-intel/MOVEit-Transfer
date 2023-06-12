@@ -39,5 +39,5 @@
 | 9 June | Victim | Illinois government among victims of global ransomware attack | [chicagotribune.com](https://www.chicagotribune.com/politics/ct-illinois-government-ransomware-attack-20230609-anvuvxf6lbdubev4xkgpyt3upe-story.html) |
 | 9 June | Victim | Minnesota Department of Education hit by cybersecurity attack | [cbsnews.com](https://www.cbsnews.com/minnesota/news/minnesota-department-of-education-hit-by-cybersecurity-attack-95000-students-data-breached/) |
 | 9 June | Victim | HSE states no more than 20 people's data breached in cyber-attack | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-statement1.html) |
-| 9 June | Capabilities | Horizon3AI's analysis of the MOVEit Transfer campaign, IOCs | [horizon3.ai](https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/) |
+| 9 June | Capabilities | Horizon3AI's analysis of the MOVEit Transfer campaign, accompanied by a Proof-of-Concept (PoC) for CVE-2023-34363, and IOCs | [horizon3.ai](https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/) |
 | 12 June | Victim | Ofcom (the UK’s communications regulator) and Ernst & Young (EY), one of the 'Big 4' accounting firms | [bbc.co.uk](https://www.bbc.co.uk/news/technology-65877210) |
