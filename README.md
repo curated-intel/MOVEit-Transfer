@@ -39,3 +39,4 @@
 | 9 June | Victim | Illinois government among victims of global ransomware attack | [chicagotribune.com](https://www.chicagotribune.com/politics/ct-illinois-government-ransomware-attack-20230609-anvuvxf6lbdubev4xkgpyt3upe-story.html) |
 | 9 June | Victim | Minnesota Department of Education hit by cybersecurity attack | [cbsnews.com](https://www.cbsnews.com/minnesota/news/minnesota-department-of-education-hit-by-cybersecurity-attack-95000-students-data-breached/) |
 | 9 June | Victim | HSE states no more than 20 people's data breached in cyber-attack | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-statement1.html) |
+| 12 June | Victim | Ofcom data compromised in mass cyber attack | [verdict.co.uk](https://www.verdict.co.uk/ofcom-data-compromised-in-mass-cyber-attack/)
