@@ -41,3 +41,4 @@
 | 9 June | Victim | HSE states no more than 20 people's data breached in cyber-attack | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-statement1.html) |
 | 9 June | Capabilities | Horizon3AI's analysis of the MOVEit Transfer campaign, accompanied by a Proof-of-Concept (PoC) for CVE-2023-34363, and IOCs | [horizon3.ai](https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/) |
 | 12 June | Victim | Ofcom (the UK’s communications regulator) and Ernst & Young (EY), one of the 'Big 4' accounting firms | [bbc.co.uk](https://www.bbc.co.uk/news/technology-65877210) |
+| 13 June | Victim | Transport for London (TfL) is warning 13,000 staff - half its entire workforce - that their details have been stolen by CL0P, via following the Zellis payroll outsourcer MOVEit Transfer hack | [twitter.com/gazthejourno](https://twitter.com/gazthejourno/status/1668594412782252038) |
