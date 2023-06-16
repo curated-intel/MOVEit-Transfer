@@ -36,7 +36,8 @@
 | 7 June | Victim/Capabilities | SentinelOne's campaign analysis, hunting queries, IOCs | [sentinelone.com](https://www.sentinelone.com/blog/moveit-transfer-exploited-to-drop-file-stealing-sql-shell/) |
 | 7 June | Victim | Extreme Networks declares having learned that their instance of MOVEit Transfer tool was impacted by a malicious act | [computerweekly.com](https://www.computerweekly.com/news/366539753/Extreme-Networks-emerges-as-victim-of-Clop-MOVEit-attack) |
 | 8 June | Capabilities | Kroll's Timeline of the campaign (dating it back to 2021), IOCs | [kroll.com](https://www.kroll.com/en/insights/publications/cyber/clop-ransomware-moveit-transfer-vulnerability-cve-2023-34362) |
-| 9 June | Resource | Progress Software issues a new patch covering new vulnerabilities | [progress.com](https://www.progress.com/security/moveit-transfer-and-moveit-cloud-vulnerability)
+| 8 June | Victim | Synlad issues a press release acknowledging being a victim of Cl0p's MOVEit campaign | [synlab.fr](https://www.synlab.fr/acutalites/news/cybersecurite-communique-de-synlab-france/) |
+| 9 June | Resource | Progress Software issues a new patch covering new vulnerabilities | [progress.com](https://www.progress.com/security/moveit-transfer-and-moveit-cloud-vulnerability) |
 | 9 June | Victim | Illinois government among victims of global ransomware attack | [chicagotribune.com](https://www.chicagotribune.com/politics/ct-illinois-government-ransomware-attack-20230609-anvuvxf6lbdubev4xkgpyt3upe-story.html) |
 | 9 June | Victim | Minnesota Department of Education hit by cybersecurity attack | [cbsnews.com](https://www.cbsnews.com/minnesota/news/minnesota-department-of-education-hit-by-cybersecurity-attack-95000-students-data-breached/) |
 | 9 June | Victim | HSE states no more than 20 people's data breached in cyber-attack | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-statement1.html) |
