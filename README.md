@@ -53,3 +53,4 @@
 | 15 June | Victim | BleepingComputer receives PR communications from victims of CL0P | [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-starts-extorting-moveit-data-theft-victims/) |
 | 15 June | Resource | Progress Software issues an advisory of a 3rd vulnerability (No CVE or patch) | [progress.com](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-15June2023) |
 | 16 June | Resource | Progress Software issues fix of 3rd vulnerability (No CVE) | [progress.com](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-15June2023) |
+| 16 June | Victim | Oregon Department of Transportation (ODOT) | [oregon.gov](https://web.archive.org/web/20230616150508/https://www.oregon.gov/odot/DMV/Pages/Data_Breach.aspx) |
