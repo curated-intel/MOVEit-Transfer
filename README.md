@@ -32,6 +32,7 @@
 | 6 June | Victim | University of Rochester and the Government of Nova Scotia are the first known MoveIT victims in North America | [therecord.media](https://therecord.media/rochester-university-nova-scotia-move-it-victims) |
 | 6 June | Capabilities | Unit42's analysis of MOVEit attacks, also observed attacks starting on 27 May, additional IOCs | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/threat-brief-moveit-cve-2023-34362/) |
 | 7 June | Adversary | Clop ransomware tells those affected to email them before 14 June or stolen data will be published | [BBC](https://www.bbc.com/news/technology-65829726) |
+| 7 June | Victim |  BORN Ontario announces MOVEit breach | [bornontario.ca](https://www.bornontario.ca/en/news/cybersecurity-incident-moveit.aspx) |
 | 7 June | Adversary/Capabilities | FBI & CISA joint advisory on CL0P, details about other TA505 campaigns, and other incidents such as the GoAnywhere attacks, IOCs, YARAs  | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a) |
 | 7 June | Victim/Capabilities | SentinelOne's campaign analysis, hunting queries, IOCs | [sentinelone.com](https://www.sentinelone.com/blog/moveit-transfer-exploited-to-drop-file-stealing-sql-shell/) |
 | 7 June | Victim | Extreme Networks declares having learned that their instance of MOVEit Transfer tool was impacted by a malicious act | [computerweekly.com](https://www.computerweekly.com/news/366539753/Extreme-Networks-emerges-as-victim-of-Clop-MOVEit-attack) |
@@ -53,4 +54,4 @@
 | 15 June | Victim | BleepingComputer receives PR communications from victims of CL0P | [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-starts-extorting-moveit-data-theft-victims/) |
 | 15 June | Resource | Progress Software issues an advisory of a 3rd vulnerability (No CVE or patch) | [progress.com](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-15June2023) |
 | 16 June | Resource | Progress Software issues fix of 3rd vulnerability (No CVE) | [progress.com](https://community.progress.com/s/article/MOVEit-Transfer-Critical-Vulnerability-15June2023) |
-| 16 June | Victim | Oregon Department of Transportation (ODOT) | [oregon.gov](https://web.archive.org/web/20230616150508/https://www.oregon.gov/odot/DMV/Pages/Data_Breach.aspx) |
+| 16 June | Victim | Oregon Department of Transportation (ODOT) announces MOVEit breach | [oregon.gov](https://web.archive.org/web/20230616150508/https://www.oregon.gov/odot/DMV/Pages/Data_Breach.aspx) |
