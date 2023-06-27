@@ -66,3 +66,4 @@
 | 23 June | Victim | andesaservices.com (Andesa Services, Insurance, US), sony.com (Sony, Technology/Media, Japan), ey.com (Ernst & Young, Consulting, UK), pwc.com (PricewaterhouseCoopers, Consulting, UK), guscanada.ca (Global University Systems (GUS) Canada, Education, Canada) | [CL0P Data Leak Site](https://github.com/curated-intel/MOVEit-Transfer/blob/main/Images/23%20June%20Leaks.png) |
 | 23 June | Victim | Harris Health System | [abc13.com](https://abc13.com/moveit-breach-harris-health-system-cyberattack-houston-patient-info-exposed/13419649/) |
 | 23 June | Victim | NYC DoE | [ny.chalkbeat.org](https://ny.chalkbeat.org/2023/6/23/23772027/nyc-student-data-breach-security-moveit-department-education-hack) |
+| 26 June | Victim | Wilton Reassurance Company | [apps.web.maine.gov](https://apps.web.maine.gov/online/aeviewer/ME/40/f74d0aa0-eb90-46c1-8093-58aabe65a9d6.shtml) |
